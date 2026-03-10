@@ -5,5 +5,8 @@
   "description": "Project scaffold for a flexo print website",
   "scripts": {
     "start": "node backend/server.js"
+  },
+  "dependencies": {
+    "react-router-dom": "^7.13.1"
   }
 }

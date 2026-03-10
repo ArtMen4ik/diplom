@@ -1,0 +1,9 @@
+{
+  "name": "flexo-print-website",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Project scaffold for a flexo print website",
+  "scripts": {
+    "start": "node backend/server.js"
+  }
+}
